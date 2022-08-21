@@ -1,0 +1,1 @@
+#This project was done as Bachelor's Thesis at KTH. The scope of the project was to build an HMM and test its predictive capability in stock trading. 
